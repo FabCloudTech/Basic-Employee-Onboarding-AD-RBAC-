@@ -8,7 +8,7 @@ Because NMG operates in healthcare, HIPAA compliance is critical. Without a prop
 * I took ownership of Northstar's identity infrastructure, starting by building a strong foundation through a properly structured Active Directory environment. This was the most critical piece of the project, since everything built afterward depends on that foundation being solid. I created the OUs and security groups, then built out user accounts and placed them in their correct departments. To validate the setup, I also simulated a mock support ticket in which a user had been provisioned with the wrong access allowing me to walk through the troubleshooting and remediation process end to end.
 
 ## Video Walkthrough
-[Add your video walkthrough link placeholder here. You will record this tomorrow and update this link so visitors can see a live demonstration of your lab environment.]
+https://www.loom.com/share/1179683f6b3040d49e9d3a9911cd460d
 
 ## Tools Used
 * Windows Server
