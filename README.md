@@ -2,7 +2,6 @@
 
 ## Problem Statement
 * The core problem stems from a fictional company, Northstar Medical Group (NMG). Early on, when NMG was smaller, they outsourced their IT infrastructure to a managed service provider (MSP) because they didn't yet have the internal resources to manage it themselves. As the company grew,this arrangement became a liability. The Active Directory environment was left disorganized, with no formal RBAC (role-based access control) policies in place resulting in inconsistent, unmanaged access across the organization.
-
 Because NMG operates in healthcare, HIPAA compliance is critical. Without a properly structured identity and access management system, NMG is exposed to serious compliance risk, including the potential for significant fines tied to failing to meet regulatory standards.
 
 ## Solution Overview
